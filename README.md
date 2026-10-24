@@ -57,7 +57,7 @@
 
 <table>
 <tr>
-<td align="center" width="160"><h3>🎯</h3><b>Ask</b><br/><sub>Understand the question and the decision behind it</sub></td>
+<td align="center" width="160"><h3>🎯</h3><b>Ask</b><br/><sub>Understand the question and the decision behind</sub></td>
 <td align="center" width="160"><h3>🧹</h3><b>Clean</b><br/><sub>Fix gaps, duplicates and inconsistent records</sub></td>
 <td align="center" width="160"><h3>🔍</h3><b>Explore</b><br/><sub>Find trends, patterns and outliers</sub></td>
 <td align="center" width="160"><h3>📊</h3><b>Visualize</b><br/><sub>Build clear charts and dashboards</sub></td>
