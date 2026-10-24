@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=turning+raw+data+into+insights;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Tableau)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://www.linkedin.com/in/aman-tiwari03q/)
-[![Gmail](https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=2DD4BF)](mailto:amantewari935@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-amantewari935%40gmail.com-21262d?style=for-the-badge&logo=gmail&logoColor=2DD4BF&labelColor=161b22)](https://mail.google.com/mail/?view=cm&fs=1&to=amantewari935@gmail.com)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20%2F%20Business%20Analyst-161b22?style=for-the-badge&color=2DD4BF&labelColor=161b22)
 
 </div>
@@ -140,7 +140,7 @@ I'm looking for fresher opportunities in **Data Analytics and Business Intellige
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-161b22?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://www.linkedin.com/in/aman-tiwari03q/)
-[![Email](https://img.shields.io/badge/Email-Contact-161b22?style=for-the-badge&logo=gmail&logoColor=2DD4BF)](mailto:amantewari935@gmail.com)
+[![Email](https://img.shields.io/badge/Email-amantewari935%40gmail.com-21262d?style=for-the-badge&logo=gmail&logoColor=2DD4BF&labelColor=161b22)](https://mail.google.com/mail/?view=cm&fs=1&to=amantewari935@gmail.com)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:2dd4bf&height=120&section=footer)
 
