@@ -14,28 +14,93 @@
 
 ### `> whoami`
 
-```yaml
-name: Aman Tiwari
-location: Faridabad, Haryana, India
-education: BCA, Maharishi Dayanand University (2022-2025)
-role: Data Analyst | Business Analyst
-focus:
-  - Data Cleaning & EDA
-  - Dashboard Development
-  - Business Intelligence & KPI Analysis
-current_stack:
-  - SQL
-  - Python
-  - Power BI
-  - Tableau
-status: open to fresher Data Analyst / Business Analyst roles
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="230">
+<img src="https://avatars.githubusercontent.com/u/264141169?v=4" width="150" alt="Aman Tiwari"/>
+<br/><br/>
+<b>Aman Tiwari</b>
+<br/>
+<sub>@amantiwari03q</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/status-open%20to%20work-2DD4BF?style=flat-square&labelColor=161b22" alt="status"/>
+</td>
+<td align="left">
+
+![Role](https://img.shields.io/badge/Role-Data%20Analyst%20%7C%20Business%20Analyst-161b22?style=for-the-badge&logo=databricks&logoColor=2DD4BF&labelColor=0d1117)
+<br/>
+![Location](https://img.shields.io/badge/Location-Faridabad%2C%20Haryana-161b22?style=for-the-badge&logo=googlemaps&logoColor=2DD4BF&labelColor=0d1117)
+<br/>
+![Education](https://img.shields.io/badge/Education-BCA%2C%20MDU%20%282022--2025%29-161b22?style=for-the-badge&logo=googlescholar&logoColor=2DD4BF&labelColor=0d1117)
+<br/>
+![Focus](https://img.shields.io/badge/Focus-EDA%20%C2%B7%20Dashboards%20%C2%B7%20BI-161b22?style=for-the-badge&logo=powerbi&logoColor=2DD4BF&labelColor=0d1117)
+<br/>
+![Stack](https://img.shields.io/badge/Stack-SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI%20%C2%B7%20Tableau-161b22?style=for-the-badge&logo=python&logoColor=2DD4BF&labelColor=0d1117)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+```text
+┌────────────────────────────────────────────────────────────┐
+│ ● ● ●                                      aman@data-lab:~ │
+├────────────────────────────────────────────────────────────┤
+│ $ whoami                                                   │
+│ > aman_tiwari                                              │
+│                                                            │
+│ $ cat profile.json                                         │
+│ {                                                          │
+│   "role"      : "Data Analyst | Business Analyst",         │
+│   "based_in"  : "Faridabad, Haryana, India",               │
+│   "education" : "BCA, MDU (2022-2025)",                    │
+│   "languages" : ["SQL", "Python"],                         │
+│   "bi_tools"  : ["Power BI", "Tableau", "Excel"],          │
+│   "databases" : ["MySQL", "PostgreSQL"],                   │
+│   "builds"    : ["EDA", "Dashboards", "Streamlit apps"],   │
+│   "status"    : "open to fresher roles"                    │
+│ }                                                          │
+│                                                            │
+│ $ echo $MOTTO                                              │
+│ > turning raw data into insights                           │
+│ $ _                                                        │
+└────────────────────────────────────────────────────────────┘
 ```
 
 ### `> about`
 
-I'm a detail-oriented data analyst who enjoys taking raw, messy datasets and turning them into something a business can act on.
+I'm **Aman Tiwari**, a data analyst from Faridabad who enjoys taking raw, messy datasets and turning them into something a business can act on. I completed my BCA at Maharishi Dayanand University and have spent that time building real, end-to-end analysis projects instead of just collecting certificates.
 
-My workflow runs from **cleaning and EDA** to **SQL analysis, data modeling, interactive dashboards and Streamlit apps**. I like starting with the business question first, then working back to the data that answers it.
+My work covers e-commerce sales, retail customer behavior, HR analytics, hotel bookings, a mental health survey and fitness-tracker data. Across these, I go from **cleaning and EDA** to **SQL analysis, data modeling, interactive dashboards and Streamlit apps**, so each project ends with insights someone can actually use.
+
+I like starting with the business question first, then working back to the data that answers it. Numbers on their own rarely help anyone; what matters is what they say about sales, customers, people or operations, and what to do next.
+
+#### How I approach a problem
+
+| Step | What I do |
+|:--|:--|
+| **1. Ask** | Understand the business question and what decision the analysis should support |
+| **2. Clean** | Handle missing values, duplicates and inconsistent records so the data can be trusted |
+| **3. Explore** | Use SQL and Python (Pandas, NumPy) to find trends, patterns and outliers |
+| **4. Visualize** | Build clear charts and dashboards in Power BI, Tableau, Matplotlib, Seaborn or Streamlit |
+| **5. Recommend** | Turn findings into plain-language insights and next steps |
+
+#### What I bring
+
+- A solid base in **SQL (MySQL, PostgreSQL)** and **Python** for cleaning, analysis and automation
+- Hands-on **dashboard building** with Power BI (DAX, Power Query), Tableau and Excel
+- Comfort working with different kinds of data, from sales and HR records to survey and fitness data
+- Regular use of AI tools such as ChatGPT, Claude and Gemini to work faster, while checking every result myself
+- Clear communication, curiosity and a habit of finishing what I start
+
+#### What I'm looking for
+
+A fresher **Data Analyst or Business Analyst** role where I can work on real business problems, learn from an experienced team and keep growing my skills in SQL, BI and analytics.
+
+> *Good analysis isn't about more charts. It's about the right answer to the right question.*
 
 ---
 
